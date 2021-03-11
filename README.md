@@ -1,0 +1,1 @@
+Simple nextjs app to refamiliarize basic concepts
